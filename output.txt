@@ -1,0 +1,7 @@
+No.of clusters =  2
+Cluster  1 : {'9', '8', '7', '11', '10', '12'}
+Cluster  2 : {'5', '4', '3', '2', '1', '0'}
+No.of hubs =  1
+Hubs: ['6']
+No.of outliers =  1
+Outliers: ['13']
